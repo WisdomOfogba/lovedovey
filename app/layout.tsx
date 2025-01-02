@@ -9,12 +9,12 @@ export const metadata = {
   description: 'A romantic declaration of love',
 openGraph: {
   type: 'website',
-  url: '/',
+  url: 'https://lovedovey.vercel.app',
   title: 'I Love You Adeshola 💗💗',
   description: 'A romantic declaration of love',
   images: [
     {
-      url: '/heart-img.png',
+      url: 'https://lovedovey.vercel.app//heart-img.png',
       width: 800,
       height: 600,
       alt: 'I Love You Adeshola 💗💗',
